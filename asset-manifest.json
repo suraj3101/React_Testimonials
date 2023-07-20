@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React_Testimonials/static/css/main.2da16d4a.css",
-    "main.js": "/React_Testimonials/static/js/main.e1391864.js",
+    "main.css": "/React_Testimonials/static/css/main.d7305e27.css",
+    "main.js": "/React_Testimonials/static/js/main.8f68357c.js",
     "index.html": "/React_Testimonials/index.html",
-    "main.2da16d4a.css.map": "/React_Testimonials/static/css/main.2da16d4a.css.map",
-    "main.e1391864.js.map": "/React_Testimonials/static/js/main.e1391864.js.map"
+    "main.d7305e27.css.map": "/React_Testimonials/static/css/main.d7305e27.css.map",
+    "main.8f68357c.js.map": "/React_Testimonials/static/js/main.8f68357c.js.map"
   },
   "entrypoints": [
-    "static/css/main.2da16d4a.css",
-    "static/js/main.e1391864.js"
+    "static/css/main.d7305e27.css",
+    "static/js/main.8f68357c.js"
   ]
 }
